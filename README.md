@@ -65,9 +65,13 @@ By implementing this approach, we aim to significantly reduce the time required 
 
 
 ## Installation
+Clone this github repo in your local machine
+```commandline
+git clone https://github.com/shyamal31/EarlyStopPrediction.git
+```
 (Optional) setup a virtual environment to install necessary packages using the following command:
 ``` commandline
-virtualenv .venv
+python3 -m venv venv
 source .venv/bin/activate
 ```
 Install the packages listed in Requirements.txt file
